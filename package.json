@@ -1,0 +1,15 @@
+{
+  "name": "webcrawler-http",
+  "version": "1.0.0",
+  "description": "practice project - learning http",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
